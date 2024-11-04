@@ -10,7 +10,7 @@ else
   echo "ro.build.id?=$BUILD_ID"
 fi
 echo "ro.build.display.id?=$BUILD_DISPLAY_ID"
-echo "ro.build.version.incremental=$BUILD_NUMBER"
+echo "ro.build.version.incremental=101"
 echo "ro.build.version.sdk=$PLATFORM_SDK_VERSION"
 echo "ro.build.version.preview_sdk=$PLATFORM_PREVIEW_SDK_VERSION"
 echo "ro.build.version.preview_sdk_fingerprint=$PLATFORM_PREVIEW_SDK_FINGERPRINT"
